@@ -14,7 +14,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
 
-    self.player = [[SBPlayer alloc]initWithURL:[NSURL URLWithString:@"http://download.3g.joy.cn/video/236/60236937/1451280942752_hd.mp4"] withDelegate:self];
+    self.player = [[SBPlayer alloc]initWithURL:[NSURL URLWithString:@"http://download.3g.joy.cn/video/236/60236937/1451280942752_hd.mp4"] view:self.view withDelegate:self ];
 
 }
 ```
