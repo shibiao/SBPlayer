@@ -1,5 +1,7 @@
 # SBPlayer
 
+##### 使用方法：拖拽SBPlayer文件到项目中，导入SBPlayer.h
+
 ```
 
 @interface ViewController()<SBPlayerDelegate>
