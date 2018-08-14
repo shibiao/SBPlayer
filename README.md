@@ -1,6 +1,6 @@
 # SBPlayer
 
-##### 使用方法：拖拽SBPlayer文件到项目中，导入SBPlayer.h
+##### 使用方法：拖拽SBPlayer文件到项目中，导入SBPlayer.h (如果已开启沙盒，需勾选Client，并在info.plist文件中添加ATS)
 
 ```
 
